@@ -1,0 +1,1 @@
+# rule-js-issue-repro
